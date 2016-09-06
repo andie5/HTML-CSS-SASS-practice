@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAc;EACZ,SAAS,EAAE,IAAI;EACf,gBAAE;IACA,KAAK,EAAE,IAAI",
+"sources": ["practice.scss"],
+"names": [],
+"file": "scss-to-css.css"
+}
